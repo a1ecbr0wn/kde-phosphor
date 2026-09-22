@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alec",
+                "Email": "alec@noser.net"
+            }
+        ],
+        "Description": "The author's own photograph, used as the desktop wallpaper. The lock screen uses a different photo, set directly by apply.sh.",
+        "Id": "Phosphor",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Phosphor",
+        "Version": "1.0.0"
+    }
+}

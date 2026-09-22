@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alec",
+                "Email": "alec@noser.net"
+            }
+        ],
+        "Description": "A dark, high-contrast global theme in the Phosphor colour set: green-on-black, one accent, no gradients or glow.",
+        "Icon": "preferences-desktop-theme",
+        "Id": "com.a1ecbr0wn.phosphor",
+        "License": "GPL-3.0-or-later",
+        "Name": "Phosphor",
+        "Version": "1.0.0",
+        "Website": "https://github.com/a1ecbr0wn/kde-phosphor"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2"
+}

@@ -1,0 +1,42 @@
+# Single source of truth for every Phosphor colour.
+# tools/build.py renders Phosphor.colors, the desktop theme `colors` file
+# and the splash colour constants from this file. Change a colour once here.
+
+[surface]
+ground = "#000A00"           # Window chrome background
+panel = "#0A140A"            # Sidebars, grouped panels, content areas (View normal)
+panel_alt = "#141E14"        # Zebra rows / active surface (View alternate)
+button = "#1C1C1C"           # Button background normal
+button_alt = "#141E14"       # Button background alternate
+tooltip = "#0F0F0F"          # Tooltip background
+hairline = "#1C1C1C"         # 1px separators
+
+[accent]
+primary = "#1AFF12"          # Primary accent: selection, focus, active state
+hover = "#00FA00"            # Decoration hover
+link = "#009600"             # Links (unvisited)
+link_visited = "#CC00A0"     # Links (visited)
+
+[text]
+normal = "#E8E8E8"           # Body text
+muted = "#A0A0A0"            # Inactive / secondary text
+faint = "#5A5A5A"            # Disabled / placeholder only (contrast ~2.9:1, never for reading text)
+
+[semantic]
+negative = "#FF1414"         # Errors
+neutral = "#FFEA00"          # Warnings
+positive = "#00B300"         # Success (dimmer than accent.primary so it stays distinguishable from focus)
+
+[selection]
+background = "#009600"
+foreground = "#E8E8E8"
+
+[wm]
+active_background = "#000A00"
+active_foreground = "#E8E8E8"
+inactive_background = "#000A00"
+inactive_foreground = "#5A5A5A"
+
+[meta]
+name = "Phosphor"
+color_scheme_name = "Phosphor"

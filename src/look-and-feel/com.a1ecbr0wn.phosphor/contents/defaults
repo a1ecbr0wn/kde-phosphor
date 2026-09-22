@@ -1,0 +1,22 @@
+[kdeglobals][General]
+ColorScheme=Phosphor
+fixed=DM Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][Icons]
+Theme=breeze-dark
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.oxygen
+theme=Oxygen
+
+[plasmarc][Theme]
+name=phosphor
+
+[ksplashrc][KSplash]
+Theme=com.a1ecbr0wn.phosphor

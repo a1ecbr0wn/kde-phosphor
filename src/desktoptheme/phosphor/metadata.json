@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alec",
+                "Email": "alec@noser.net"
+            }
+        ],
+        "Description": "Panels, popups and widgets recoloured to the Phosphor palette. Falls back to the default Plasma theme for anything not overridden here.",
+        "Id": "phosphor",
+        "License": "GPL-3.0-or-later",
+        "Name": "Phosphor"
+    }
+}
